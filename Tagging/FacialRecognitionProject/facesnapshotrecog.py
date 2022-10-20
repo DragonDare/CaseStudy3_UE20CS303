@@ -12,7 +12,7 @@ def do_everything():
     #iniciate id counter
     id = 0
     # names related to ids: example ==> Marcelo: id=1,  etc
-    names = ['None', 'Aditya', "Rohan", "Kohav"] 
+    names = ['None', 'Aditya', "Rohan", "Kohav", "Waltuh"] 
     # Initialize and start realtime video capture
     
     for pic in sorted(os.listdir("Violators")):
