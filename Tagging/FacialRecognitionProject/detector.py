@@ -26,7 +26,7 @@ weared_mask = "Masked"
 not_weared_mask = "VIOLATOR"
 
 # Read video
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 i = 0
 while 1:
     i+=1
