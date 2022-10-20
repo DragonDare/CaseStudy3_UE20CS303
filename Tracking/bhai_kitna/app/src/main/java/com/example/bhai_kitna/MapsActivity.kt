@@ -111,7 +111,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                 getCurrentLocation()
             } else {
                 //if it doest log an error message
-                Log.e(TAG, "Location permission has been denied")
+                Log.e(TAG, "Location permission has been denied, please try again")
             }
         }
     }
