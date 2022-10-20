@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161735172459",
+    "project_id": "hallothon-tracking",
+    "storage_bucket": "hallothon-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161735172459:android:92c8241c168bd213a9ec2e",
+        "android_client_info": {
+          "package_name": "com.example.bhai_kitna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161735172459-mhosavcqoisu7uk1er8qe0o7v731ain2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpomwbCdTJf0EVsMmVBGmuCyIxLIn4jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161735172459-mhosavcqoisu7uk1er8qe0o7v731ain2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
