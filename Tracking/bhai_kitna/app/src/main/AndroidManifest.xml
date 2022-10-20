@@ -40,5 +40,7 @@
             </intent-filter>
         </activity>
     </application>
-
+<!--
+    just a change for se project. You gotta do what you gotta do.
+    -->
 </manifest>
